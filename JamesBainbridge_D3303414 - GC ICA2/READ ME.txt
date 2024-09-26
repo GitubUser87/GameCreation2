@@ -1,0 +1,28 @@
+CONTROLS:
+Keyboard:
+W + Up Arrow - Forward
+A + Left Arrow - Left
+D + Right Arrow - Right
+S + Down Arrow - Down
+Mouse - Camera Movement
+E - Interact
+Space Bar - Jump
+P - Pause
+Crtl - Crouch
+R - Reload
+Left Mouse Button - Shoot
+
+
+Controller:
+Left Control Stick - WASD - Movement
+Right Control Stick - Camera Movement
+A - Jump
+X - Interact
+Start Button - Pause
+Left Trigger- Crouch
+Right Shoulder Trigger - Reload
+Right Trigger - Shoot
+
+NOTES:
+All buttons on widgets can only be used by mouse and cursor. (This relates to the menu widgets.)
+In the tutorial all the hints will be in the top left Corner.
